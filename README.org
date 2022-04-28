@@ -1,0 +1,12 @@
+#+title: newbie.el
+
+Simple Emacs setup for beginners; consider this a relatively unopinionated version of how Emacs /could/ be.
+
+* Installation
+
+1. Copy [[file:init.el][init.el]] to =~/.emacs.d/init.el=.
+2. Fire up Emacs and enjoy!
+
+* Author
+
+Ashton Wiersdorf https://github.com/ashton314
