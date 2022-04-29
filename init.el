@@ -22,6 +22,7 @@
 (global-auto-revert-mode)
 (delete-selection-mode 1)
 
+(setq-default indent-tabs-mode nil)
 (setq column-number-mode t)
 (setq display-time-default-load-average nil)
 (setq inhibit-startup-screen t)
