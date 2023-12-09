@@ -1,5 +1,11 @@
 #+title: newbie.el
 
+* DEPRECATED
+
+If this project interests you, please look at my [[https://sr.ht/~ashton314/emacs-bedrock][Emacs Bedrock]] configuration—it's a much more robust (and simultaneously simpler!) configuration that takes better advantage of built-in Emacs functionality by default.
+
+* Old README
+
 Simple Emacs setup for beginners; consider this a relatively unopinionated version of how Emacs /could/ be.
 
 * Installation
